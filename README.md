@@ -30,4 +30,4 @@ Project is: _finished_.
 Based on the codecademy example.
 
 ## Contact
-Created by [@JRompinelli](https://github.com/JRompinelli) - feel free to contact me!
+Created by [@JRompinelli](https://github.com/JRompinelli) - feel free to contact me!# mixedMessages
