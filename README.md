@@ -11,7 +11,7 @@ I have also added a bit of ASCII.
 * [Contact](#contact)
 
 ## General info
-This script is made for the full-stack learning path at Codecademy.
+This script is made for the full-Stack learning path at Codecademy.
 Happy coding!
 ## Technologies
 * Javascript / ECMAScript 2020
