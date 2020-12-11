@@ -1,7 +1,7 @@
 # Mixed Messages
 > Funny random messages generator script to guess the near future.
 
-I have also added a bit of ASCII.
+>I have also added a bit of ASCII.
 
 ## Table of contents
 * [General info](#general-info)
