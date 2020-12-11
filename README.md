@@ -1,5 +1,5 @@
 # Mixed Messages
-> Script that generates three funny random messages, guessing what will happen in the next year.
+> Funny random messages generator script to guess the near future.
 I have also added a bit of ASCII.
 
 ## Table of contents
@@ -20,8 +20,8 @@ Happy coding!
 ## Setup
 To run this project, install it locally using node and the file local:
 
-$ cd ../folder
-$ node script.js
+`$ cd ../folder`
+`$ node script.js`
 
 ## Status
 Project is: _finished_.

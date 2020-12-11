@@ -3,7 +3,7 @@ function generateRandomNumber(num) {
   }
 
 const fortuneTeller = {
-  newFriends: ['Scarlett Johansson', 'Gal Gadot', 'Keanu Reeves', 'Johnny Depp', 'The Weeknd', 'Rosalía', 'Donald Trump', 'Kamala Harris',
+  newFriends: ['Scarlett Johansson', 'Gal Gadot', 'Keanu Reeves', 'Johnny Depp', 'The Weeknd', 'Rosalía', 'Dua Lipa',
                'Leo Messi', 'Cristiano Ronaldo','Kim Jong-un','Will Smith', 'your future wife', 'Rihanna', 'your future husband',],
 
   cities: ['New York', 'Madrid', 'London', 'Rio de Janeiro', ' Pionyang', 'Rome', 'Paris', 'Mexico', 'Buenos Aires', 'Tokyo', 'Moscow',
@@ -11,7 +11,7 @@ const fortuneTeller = {
 
   newLanguage: ['JavaScript', 'PHP', 'Python', 'C++', 'SQL', 'Japanese', 'Spanish', 'Chinese', 'Italian', 'High Valyrian', 'Dothraki'],
 
-  emojisAscii: ['⊂(◉‿◉)つ', '◖ᵔᴥᵔ◗ ♪ ♫ ', 'ʘ‿ʘ', 'ʕᵔᴥᵔʔ', 'ಥ_ಥ', 'ᕦ(ò_óˇ)ᕤ', '¿ⓧ_ⓧﮌ']
+  emojisAscii: ['Front-End developer ⊂(◉‿◉)つ', 'Full-Stack developer ᕦ(ò_óˇ)ᕤ', 'Back-End developer ¿ⓧ_ⓧﮌ']
 
 }
 
@@ -22,19 +22,19 @@ for(let item in fortuneTeller) {
 
   switch(item) {
     case 'newFriends':
-      nextFuture.push(`You will meet ${fortuneTeller[item][optionIdx]}.`)
+      nextFuture.push(`You'll meet ${fortuneTeller[item][optionIdx]}.`)
       break
     case 'cities':
-      nextFuture.push(`You will travel to ${fortuneTeller[item][optionIdx]}.`)
+      nextFuture.push(`You'll travel to ${fortuneTeller[item][optionIdx]}.`)
       break
     case 'newLanguage':
       nextFuture.push(`You'll learn ${fortuneTeller[item][optionIdx]}.`)
       break
       case 'emojisAscii':
-        nextFuture.push(`${fortuneTeller[item][optionIdx]}.`)
+        nextFuture.push(`You'll work as a ${fortuneTeller[item][optionIdx]}.`)
         break
     default:
-      nextFuture.push('There is not enough info.')
+      nextFuture.push('Error!')
   }
 }
 
