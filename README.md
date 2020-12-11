@@ -19,7 +19,6 @@ Happy coding!
 
 ## Setup
 To run this project, install it locally using node and the file local:
-
 `$ cd ../folder`
 `$ node script.js`
 
@@ -30,4 +29,4 @@ Project is: _finished_.
 Based on the codecademy example.
 
 ## Contact
-Created by [@JRompinelli](https://github.com/JRompinelli) - feel free to contact me!# mixedMessages
+Created by [@JRompinelli](https://github.com/JRompinelli) - feel free to contact me!
