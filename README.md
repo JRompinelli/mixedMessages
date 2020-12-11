@@ -1,5 +1,6 @@
 # Mixed Messages
 > Funny random messages generator script to guess the near future.
+
 I have also added a bit of ASCII.
 
 ## Table of contents
